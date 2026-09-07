@@ -7,5 +7,5 @@ int main() {
     cin>>a;
     float pi=3.14;
     area = 2*pi*(a*a);
-    cout<<"Area of radius "<<a<<" circle is: "<<area;
+    cout<<"Area of radius "<< a <<" circle is: "<< area;
 }
