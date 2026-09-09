@@ -1,10 +1,9 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int a;
+    int a, b;
     cout<<"Enter  first value: ";
     cin>>a;
-    int b;
     cout<<"Enter second value: ";
     cin>>b;
 
