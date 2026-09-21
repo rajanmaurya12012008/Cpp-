@@ -3,12 +3,12 @@
 using namespace std;
 int main() {
     string name;
-    cout<<"Enter your name: ";
+    cout<<"Enter Your name: ";
     getline(cin,name);
-    cout<<"Enter your age: ";
+    cout<<"Enter Your age: ";
     int age;
     cin>> age;
-    cout<<"Enter your location: ";
+    cout<<"Enter Your location: ";
     string loc;
     cin>> loc;
     cout<<"I know you are " <<name<< " and your age is " <<age <<" Also you are from "<<loc;
