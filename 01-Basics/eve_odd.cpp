@@ -11,7 +11,7 @@ int main(){
         cout<<a<<" is odd number"<< endl;
     }
     else {
-        cout<<"Invalid Enter try again"<< endl;
+        cout<<"Invalid Enter try again!!!"<< endl;
     }
 
 }
