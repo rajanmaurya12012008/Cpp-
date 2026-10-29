@@ -6,7 +6,6 @@ int main(){
     cin>>a;
     if (a%2==0){
         cout <<a<<" is Even"<< endl;
-    
     }
     else if (a%2!=0){
         cout<<a<<" is odd number"<< endl;
