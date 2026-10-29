@@ -10,7 +10,6 @@ int main(){
     }
     else if (a%2!=0){
         cout<<a<<" is odd number"<< endl;
-    
     }
     else {
         cout<<"Invalid Enter try again!!!"<< endl;
